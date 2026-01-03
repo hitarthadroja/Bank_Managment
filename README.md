@@ -18,6 +18,7 @@ Customer details (Name, Address, Email, Phone)
 
 Email & mobile number validation
 
+
 💰 Transaction Management
 
 Deposit
@@ -28,9 +29,11 @@ Transfer
 
 View account details
 
+
 ⏳ Fixed Account Restriction
 
 Transactions blocked before 5 years
+
 
 💳 Loan Management System
 
@@ -40,7 +43,9 @@ Automatic interest calculation
 
 Loan repayment facility
 
+
 📊 Formatted Output using <iomanip>
+
 
 🧠 Concepts Used
 
@@ -60,6 +65,7 @@ Menu-driven programming
 
 C++ Standard Libraries (iostream, string, iomanip)
 
+
 🗂️ Project Structure
 Bank-Management-System/
 │
@@ -70,11 +76,12 @@ Bank-Management-System/
 ├── loan             → Loan apply & repayment
 └── main.cpp         → Program execution
 
+
 ▶️ How to Run
 
 Clone the repository:
 
-git clone https://github.com/your-username/Bank-Management-System.git
+git clone https://github.com/hitarthadroja/Bank_Managment/blob/main/Bank_Managment.cpp
 
 
 Compile the program:
@@ -89,6 +96,7 @@ Run the executable:
 🧪 Sample Login Credentials
 Password: abc@123
 
+
 📌 Future Enhancements
 
 File handling for data persistence
@@ -101,6 +109,7 @@ Transaction history tracking
 
 GUI-based version
 
+
 🎓 Ideal For
 
 C++ OOP Practice
@@ -110,6 +119,7 @@ College / University Mini Project
 Console Application Development
 
 Interview & Viva Demonstration
+
 
 📄 License
 
